@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="80646f53-c410-46c9-aaa8-17d301c36768" name="http://abubakarafzal.ml/" url="http://ftp.abubakarafzal.ml">
+        <fileTransfer host="ftp.abubakarafzal.ml" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
